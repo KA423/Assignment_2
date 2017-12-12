@@ -1,0 +1,53 @@
+body{
+  padding: 10px;
+}
+h1{
+background: red;
+padding: 10px;
+border: black;
+border-style: solid;
+margin: 5px;
+}
+p{
+  background: blue;
+  color: white;
+  padding: 10px;
+  border: black;
+  border-style: solid;
+  margin: 10px;
+}
+
+code{
+background: white;
+color: black;
+padding: 5px;
+border: black;
+border-style: solid;
+border-width: thin;
+margin: 2px;
+}
+
+h2{
+  background: green;
+  border: pink;
+  border-style: dashed;
+  border-width: medium;
+  color: pink;
+  margin-left: 0px;
+
+}
+
+ol{
+  background: grey;
+  border: black;
+  border-style: solid;
+  color: white;
+}
+
+li{
+  background: grey;
+  border: black;
+  border-style: solid;
+  margin: 5px;
+  padding: 9px;
+}
